@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    background-color: black;
+}
+.logo img{
+    width: 360px;
+}
+
+.box1{
+    background-color: chartreuse;
+    width: 380px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(233, 15, 15);
+    color: rgba(0, 38, 255, 0.815);
+}
+
+.login-form{
+    text-align: center;
+    background-color: black;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(15, 19, 233);
+}
+
+input{
+    border: 1px solid rgb(0, 255, 34);
+}
+
+.input-text{
+    color: whitesmoke;
+}
